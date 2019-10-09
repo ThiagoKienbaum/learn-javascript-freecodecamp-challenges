@@ -1,0 +1,17 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/ThiagoKienbaum/FreeCodeCamp-Challenges",
+  "authors": [
+    "ThiagoKienbaum <thiago.kienbaum@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
